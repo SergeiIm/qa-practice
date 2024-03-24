@@ -2,7 +2,7 @@
 
 class Links:
 
-    HOST = "https://opensource-demo.orangehrmlive.com/web/index.php"
-    LOGIN_PAGE = f"{HOST}/auth/login"
-    DASHBOARD_PAGE = f"{HOST}/dashboard/index"
-    PERSONAL_PAGE = f"{HOST}/pim/viewPersonalDetails/empNumber/7"
+    HOST = "https://www.qa-practice.com/"
+    PAGE_SINGLE_LINE_INPUT_TEXT_FIELD = f"{HOST}elements/input/simple"
+    PAGE_SINGLE_LINE_INPUT_EMAIL_FIELD = f"{HOST}elements/input/email"
+    PAGE_SINGLE_LINE_INPUT_PASSWORD_FIELD = f"{HOST}elements/input/passwd"
